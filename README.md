@@ -8,7 +8,7 @@ O site Fokus foi um projeto que eu desenvolvi no curso de Desenvolvimento Web da
 
 # O que é o método Pomodoro?
 
-O método Pomodoro é uma técnica de gestão de tempo que eu utilizo no Fokus. Ele consiste em dividir o trabalho em blocos de 25 minutos, chamados "pomodoros", seguidos por pausas curtas de 5 minutos. Após quatro ciclos, fazemos uma pausa mais longa(e.g., 15 minutos). Essa prática ajuda a manter o foco, aumentar a produtividade e evitar o cansaço mental.
+O método Pomodoro é um método de gestão de tempo em que o Fokus se baseia. O método consiste em dividir o trabalho em blocos de 25 minutos, chamados "pomodoros", seguidos por pausas curtas de 5 minutos. Após quatro ciclos, fazemos uma pausa mais longa(e.g., 15 minutos).
 
 # Sobre o Site ?
 
