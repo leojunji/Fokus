@@ -4,6 +4,7 @@ O site Fokus foi um projeto do curso de desenvolvimento web, da Alura.
 
 ![image](https://github.com/user-attachments/assets/2d9d2148-0b4c-43db-a244-93f565e1c80e)
 
+https://fokus-nine-weld.vercel.app
 
 # O que é o método Pomodoro?
 
